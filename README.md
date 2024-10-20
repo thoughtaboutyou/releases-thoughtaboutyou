@@ -1,5 +1,21 @@
 # [releases-thoughtaboutyou](https://github.com/thoughtaboutyou/releases-thoughtaboutyou)
 
+
+
+---
+
+
+
+> ## ⚠️ This project has been archived
+>
+> No future updates are planned. Feel free to continue using it, but expect no support.
+
+
+
+---
+
+
+
 Compiled and ready releases of [Thought About You][TAY]
 
 
